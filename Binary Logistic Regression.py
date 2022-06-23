@@ -72,6 +72,7 @@ features = Tokenized.fit_transform(x_train)
 print(features)
 print(Tokenized.get_feature_names())
 print(features.toarray())
+X_tf = TfidfTransformer(use_idf=False).fit_transform(features)
 
 # With a classification system in place, the next step will be to model the
 # data and plot it in a way that's useful. 
