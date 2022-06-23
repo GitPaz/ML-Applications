@@ -39,6 +39,10 @@ df = pd.DataFrame(data, columns= ['v1','v2'])
 # df.v2.apply(lambda x: pd.value_counts(x.split(" "))).sum(axis = 0)
 # consider using word frequency as a means to identify phishing schemes.
 
+freq = df.groupby(['v2']).size()
+display(freq)
+# this works, kind of.
+
 print(df)
 # verify that the data is being imported properly
 
