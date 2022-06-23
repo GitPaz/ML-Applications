@@ -58,12 +58,12 @@ x = df['v2']
 y = df['v1']
 # set y = to the label assigned to v1, describing v2
 
-x_train, x_test, y_train, y_test = train_test_split(x,y, test_size = 0.93)
+x_train, x_test, y_train, y_test = train_test_split(x,y, test_size = 0.25)
 # takes x and y, our columns v1 and v2, and sets 25% as the testing sample
 # and the remainder as the training sample. Accuracy remain above 90% for all
 # N < 0.94
 
-Tokenized = CountVectorizer()
+Tokenized = CountVectorizer(stop_words='english')
 # CountVectorizer tokenizeseach word, saves the number of occurrences, and
 # then saves that result to the var occ.
 # Format is: email ID, word ID, Occurrence
