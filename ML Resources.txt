@@ -38,3 +38,4 @@ https://www.machinelearningplus.com/nlp/lemmatization-examples-python/
 https://www.marsja.se/pandas-count-occurrences-in-column-unique-values/#:~:text=How%20do%20you%20Count%20the,in%20the%20column%20%E2%80%9Ccondition%E2%80%9D.
 https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
 https://stackoverflow.com/questions/28687027/countvectorizer-in-sklearn-with-only-words-above-some-minimum-number-of-occurren
+https://www.geeksforgeeks.org/tf-idf-for-bigrams-trigrams/
