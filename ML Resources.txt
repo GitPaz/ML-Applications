@@ -33,4 +33,5 @@ https://neptune.ai/blog/how-to-compare-machine-learning-models-and-algorithms
 https://medium.com/fintechexplained/machine-learning-algorithm-comparison-f14ce372b855
 https://towardsdatascience.com/how-to-compare-machine-learning-algorithms-ccc266c4777
 https://www.machinelearningplus.com/nlp/lemmatization-examples-python/
+https://www.marsja.se/pandas-count-occurrences-in-column-unique-values/#:~:text=How%20do%20you%20Count%20the,in%20the%20column%20%E2%80%9Ccondition%E2%80%9D.
 https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
