@@ -68,6 +68,8 @@ print(features)
 # data and plot it in a way that's useful. 
 
 plot = svm.SVC()
+# Support Vector Machine is used to plot data points around linear line in order to judge accuracy. 
+# Consider possibly using random forest method in future.
 plot.fit(features,y_train)
 
 features_test = Tokenized.transform(x_test)
