@@ -36,6 +36,9 @@ df = pd.DataFrame(data, columns= ['v1','v2'])
 # creates a data frame built off of column conditions v1 and v2. Essentially,
 # creating a 2-dimensional, labeled, data structure.
 
+# df.v2.apply(lambda x: pd.value_counts(x.split(" "))).sum(axis = 0)
+# consider using word frequency as a means to identify phishing schemes.
+
 print(df)
 # verify that the data is being imported properly
 
