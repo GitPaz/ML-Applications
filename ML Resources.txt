@@ -89,3 +89,6 @@ https://www.askpython.com/python/examples/k-fold-cross-validation
 
 https://www.section.io/engineering-education/how-to-implement-k-fold-cross-validation/
 --Much more in-depth examination of k-fold and its applications in ML.
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
+--how to use kfold from sci kit
