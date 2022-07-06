@@ -15,27 +15,77 @@ ___  ___ _      ______ _____ _____  _____ _   _______  _____  _____ _____
                                                  | |   | |                       
                                                  |_|   |_|                       
 
-https://www.machinelearningplus.com/nlp/lemmatization-examples-python/
-https://github.com/Pr0fe5s0r/PhishingBot
-https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b
-https://www.kaggle.com/code/veleon/spam-classification/notebook
-https://www.kaggle.com/datasets/veleon/ham-and-spam-dataset
+https://www.machinelearningplus.com/nlp/lemmatization-examples-python/ 
+--good for understanding lematization and its application in ML.
+
+https://github.com/Pr0fe5s0r/PhishingBot 
+--good for seeing an ML app example to study.
+
+https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b 
+--good for showing what natural language processing is and how to use it in ML.
+
+https://www.kaggle.com/code/veleon/spam-classification/notebook 
+--good example of spam classification using the same dataset I have.
+
+https://www.kaggle.com/datasets/veleon/ham-and-spam-dataset 
+--dataset used in my applications.
+
 https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73
+--Good for understanding theory behind spam classifiers with ML, bag of words, and uses my same dataset. 
+
 https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning/follow-the-data?autoSkip=true&autoplay=true&resume=false
+--good intro to ML 
+
 https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+--intro to binary logistic regression and how it works in python w/ examples. 
+
 https://datatofish.com/import-csv-file-python-using-pandas/
+--how to use pandas to import csv files and turn them into dataframes.
+
 https://www.w3schools.com/python/pandas/pandas_csv.asp
+--how to read pandas csv with example.
+
 https://www.w3schools.com/python/pandas/default.asp
+--how to use pandas. Pretty much everything having to do with pandas and tutorials.
+
 https://www.kdnuggets.com/2020/07/spam-filter-python-naive-bayes-scratch.html
+--How to use naive bayes to approach a ML spam filter. Features math theory and examples. 
+
 https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/#:~:text=Naive%20Bayes%20is%20a%20classification,to%20make%20their%20calculations%20tractable.
+--Another approach to Naive Bayes with examples. Not so much theory so less useful overall and more of a way to quickly jump into program and stats.
+
 https://www.analyticsvidhya.com/blog/2021/08/ensemble-stacking-for-machine-learning-and-deep-learning/
+--Stacking theory in ML with graphs and example python code to view. 
+
 https://neptune.ai/blog/how-to-compare-machine-learning-models-and-algorithms
+--Guide for critiquing and evaluating performance of different ML algorithms and how to best choose one for problem. 
+
 https://medium.com/fintechexplained/machine-learning-algorithm-comparison-f14ce372b855
+--Wonderful in-depth comparison between several popular ML algorithms.
+
 https://towardsdatascience.com/how-to-compare-machine-learning-algorithms-ccc266c4777
+--Simpler guide for how to compare ML algorithms. 
+
 https://investigate.ai/text-analysis/counting-words-with-scikit-learns-countvectorizer/
-https://investigate.ai/text-analysis/counting-words-with-scikit-learns-countvectorizer/
+--how to use scikit CountVectorizer function
+
 https://www.machinelearningplus.com/nlp/lemmatization-examples-python/
+--What is lematization and how is it implemented using several python packages.
+
 https://www.marsja.se/pandas-count-occurrences-in-column-unique-values/#:~:text=How%20do%20you%20Count%20the,in%20the%20column%20%E2%80%9Ccondition%E2%80%9D.
+--How to count the number of both distinct and general occurences in a data frame.
+
 https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
+--What is a count vectorizer, why it's important, and how to implement it. 
+
 https://stackoverflow.com/questions/28687027/countvectorizer-in-sklearn-with-only-words-above-some-minimum-number-of-occurren
+--How to implement a document frequency requirement with CountVecotirzer function. 
+
 https://www.geeksforgeeks.org/tf-idf-for-bigrams-trigrams/
+--What are bigrams and trigrams and how to implement these features in ML.
+
+https://www.askpython.com/python/examples/k-fold-cross-validation
+--What is k-fold cross validation w/examples. 
+
+https://www.section.io/engineering-education/how-to-implement-k-fold-cross-validation/
+--Much more in-depth examination of k-fold and its applications in ML.
