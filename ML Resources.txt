@@ -92,3 +92,6 @@ https://www.section.io/engineering-education/how-to-implement-k-fold-cross-valid
 
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
 --how to use kfold from sci kit
+
+https://stats.stackexchange.com/questions/104713/hold-out-validation-vs-cross-validation/104750#104750 
+--A solid explanation from an expert in the ML field as to the use cases of independent test versus k-fold. 
